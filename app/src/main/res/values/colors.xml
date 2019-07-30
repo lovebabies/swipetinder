@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#EA3732</color>
+    <color name="grey">#8e9299</color>
+    <color name="white">#fff</color>
+    <color name="ngRowBackground">#FA315B</color>
+    <color name="itemName">#535353</color>
+    <color name="Descriptyion">#a9a9a9</color>
+</resources>
